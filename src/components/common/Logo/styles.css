@@ -1,0 +1,17 @@
+.logo {
+    min-width: fit-content;
+}
+
+.logo img {
+    width: 1.5rem;
+    margin-right: 0.4rem;
+}
+
+.logo > div {
+    display: flex;
+    align-items: center;
+}
+
+.logo p {
+    font-size: 0.5rem;
+}
